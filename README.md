@@ -10,11 +10,11 @@ A hands-on journey to mastering computer networking through:
 
 ## Structure
 
-docs/         # Learning notes (HTTP, TCP/IP, DNS, etc.)
-projects/     # Real-world builds (servers, proxies, etc.)
-experiments/  # Small tests and explorations
-diagrams/     # Visual explanations
-scripts/      # Utilities and helpers
+- **docs/**          — Learning notes (HTTP, TCP/IP, DNS, etc.)
+- **projects/**      — Real-world builds (servers, proxies, etc.)
+- **experiments/**   — Small tests and explorations
+- **diagrams/**      — Visual explanations
+- **scripts/**       — Utilities and helpers
 
 ---
 
