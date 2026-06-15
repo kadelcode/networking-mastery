@@ -144,7 +144,7 @@ Features:
 
 - Multiplexing
 - Header compression
-- Server push
+- Server push (largely deprecated in modern browsers)
 - Binary protocol
 
 Benefits:
