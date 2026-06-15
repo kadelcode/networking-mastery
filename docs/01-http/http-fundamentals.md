@@ -156,7 +156,7 @@ Benefits:
 
 ### HTTP/3 (2022)
 
-Built on QUIC instead of TCP.
+Built on QUIC (which runs over UDP) instead of TCP.
 
 Benefits:
 
