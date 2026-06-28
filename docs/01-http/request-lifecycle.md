@@ -14,6 +14,7 @@
 - [Step 4: TLS (Transport Layer Security) Handshake (HTTPS)](#step-4-tls-transport-layer-security-handshake-https)
 - [Step 5: HTTP Request Sent](#step-5-http-request-sent)
 - [Step 6: Web Server Receives Request](#step-6-web-server-receives-request)
+- [Step 7: Application Processing](#step-7-application-processing)
 - [Step 8: Database Query](#step-8-database-query)
 - [Step 9: HTTP Response Generated](#step-9-http-response-generated)
 - [Step 10: Response Sent Back](#step-10-response-sent-back)
@@ -242,6 +243,8 @@ A[Browser];
 B[Nginx];
 
 A --> B
+```
+
 ---
 
 ## Step 7: Application Processing
